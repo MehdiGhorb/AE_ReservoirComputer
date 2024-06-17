@@ -5,7 +5,7 @@ Welcome to the AE_ReservoirComputer repository!
 This repository contains the implementation of an Artificial Echo Reservoir Computer, a type of machine learning model used for time series prediction and signal processing tasks. The reservoir computer architecture is based on the concept of a dynamical system with a large number of interconnected nodes, known as the reservoir.
 
 ## Structure
-![Connection between AE and RC][imgs/AE_R.jpg]
+![Connection between AE and RC](imgs/AE_R.jpg)
 
 ## Installation
 
