@@ -1,4 +1,4 @@
-# Auto Encoder with ReservoirComputer
+# Auto Encoder with Reservoir Computer
 
 Welcome to the AE_ReservoirComputer repository!
 
